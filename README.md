@@ -26,7 +26,7 @@
 
 ## About me
 - 🛰️ Intern at Sekawan Media  
-- 🌱 Learning: JavaScript  
+- 🌱 Learning: JapanScript  
 - 💬 Ask me about: PHP, JavaScript, MySQL, Web Dev  
 - 📫 Reach me: enandre@gmail.com  
 
@@ -42,8 +42,8 @@
 </p>
 
 ## Highlights
-- Journalkita — CMS jurnal sederhana berbasis PHP  
-- Trimfit — Landing page sederhana  
+- Nihongokita — Jappanese Club Blog 
+- Trimfit — Calories Counter for diet
 
 ---
 
