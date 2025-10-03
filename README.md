@@ -32,5 +32,5 @@
 -->
 <p align="center">
   <a href="https://trimfit.rf.gd"><img src="./Screenshot 2025-10-03 141214.png" width="49%" alt="Preview Trimfit" /></a>
-  <a href="https://nihongokita.my.id"><img src="./nihongokita-preview.png" width="49%" alt="Preview NihongoKita" /></a>
+  <a href="https://nihongokita.my.id"><img src="./Screenshot 2025-10-03 141527.png" width="49%" alt="Preview NihongoKita" /></a>
 </p>
