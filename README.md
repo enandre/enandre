@@ -31,10 +31,6 @@
      - Jika tidak muncul atau buram, ganti dengan upload screenshot sendiri dan pakai path file lokal repo.
 -->
 <p align="center">
-  <a href="https://trimfit.rf.gd" title="Trimfit">
-    <img src="https://s.wordpress.com/mshots/v1/https://trimfir.rf.gd?w=1200" alt="Preview Trimfit" width="49%" />
-  </a>
-  <a href="https://nihongokita.my.id" title="NihongoKita">
-    <img src="https://s.wordpress.com/mshots/v1/https://nihongokita.my.id?w=1200" alt="Preview NihongoKita" width="49%" />
-  </a>
+  <a href="https://trimfir.rf.gd"><img src="./trimfit-preview.png" width="49%" alt="Preview Trimfit" /></a>
+  <a href="https://nihongokita.my.id"><img src="./nihongokita-preview.png" width="49%" alt="Preview NihongoKita" /></a>
 </p>
