@@ -4,7 +4,6 @@
 - 🌱 Learning: JapanScript
 - 💬 Ask me about: VibeCoding, PHP, JavaScript
 - 📫 How to reach me: enandre@gmail.com
-- 🌐 Website: 
 
 ## Tech Stack
 - PHP, MySQL, JavaScript
