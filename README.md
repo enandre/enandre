@@ -31,6 +31,6 @@
      - Jika tidak muncul atau buram, ganti dengan upload screenshot sendiri dan pakai path file lokal repo.
 -->
 <p align="center">
-  <a href="https://trimfir.rf.gd"><img src="./trimfit-preview.png" width="49%" alt="Preview Trimfit" /></a>
+  <a href="https://trimfit.rf.gd"><img src="./Screenshot 2025-10-03 141214.png" width="49%" alt="Preview Trimfit" /></a>
   <a href="https://nihongokita.my.id"><img src="./nihongokita-preview.png" width="49%" alt="Preview NihongoKita" /></a>
 </p>
