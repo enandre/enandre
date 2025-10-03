@@ -1,4 +1,4 @@
-<img width="431" height="929" alt="image" src="https://github.com/user-attachments/assets/c812810a-3376-4340-b174-0be0ba88eba2" /><h1 align="center">Hi, I'm Andrean 👋</h1>
+<h1 align="center">Hi, I'm Andrean 👋</h1>
 <p align="center">
   <a href="mailto:enandre@gmail.com">Email</a> •
   <a href="https://github.com/enandre">GitHub</a>
